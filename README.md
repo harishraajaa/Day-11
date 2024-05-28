@@ -3,4 +3,4 @@
 This Repo contains my workout files and Task folders.
 
 
-Folder Name : Task1 -> Resume. 
+Folder Name : Task1 -> Task-Resume 
